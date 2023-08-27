@@ -35,9 +35,9 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [HTML Solution](https://your-solution-url.com)
-- Solution URL: [CSS Solution](https://your-solution-url.com)
-- Live Site URL: [Live Site](https://your-live-site-url.com)
+- Solution URL: [HTML Solution](https://github.com/Tori-Bemide/Frontend-mentor-product-preview-card-component/blob/main/index.html)
+- Solution URL: [CSS Solution](https://github.com/Tori-Bemide/Frontend-mentor-product-preview-card-component/blob/main/css/styles.css)
+- Live Site URL: [Live Site](https://tori-bemide.github.io/Frontend-mentor-product-preview-card-component/)
 
 ## My process
 
