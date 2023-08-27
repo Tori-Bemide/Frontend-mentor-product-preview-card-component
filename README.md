@@ -61,7 +61,7 @@ Also found this code snippet really useful:
   width: 90vw;
   max-width: 350px;
 }
-
+```
 
 ### Continued development
 
